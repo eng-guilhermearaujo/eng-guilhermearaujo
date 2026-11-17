@@ -37,7 +37,7 @@
 ### 🎯 Perfil & Foco
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/xyani/porygon-z.gif" alt="Porygon-Z Tech" width="180" />
+  <img src="https://gemini.google.com/app/fe85b382f9d9202d" alt="Porygon-Z Tech" width="180" />
 </p>
 
 - ⚡ **Área de Atuação:** Automação predial, segurança contra incêndio (SDAI) e engenharia de manutenção.
