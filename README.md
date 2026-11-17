@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Wallpaper Tech" style="border-radius: 12px; width: 100%; max-height: 400px; object-fit: cover;" />
+  <img src="https://i.pinimg.com/originals/34/84/5f/34845fa108269785055b85d9bf768991.gif" alt="Pixel Art Wallpaper" width="100%" style="border-radius: 12px;" />
 </p>
 
 ### 💻 Stack & Tecnologias
