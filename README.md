@@ -5,6 +5,9 @@
 **Engenheiro Eletricista e Desenvolvedor Front-End** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas.
 
 ---
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Wallpaper Tech" style="border-radius: 12px; width: 100%; max-height: 400px; object-fit: cover;" />
+</p>
 
 ### 💻 Stack & Tecnologias
 
