@@ -2,9 +2,7 @@
 
 > *"Even the most intricate systems start with a single line of logic."* ⚡
 
-**Engenheiro Eletricista e Desenvolvedor Front-End** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas. 
-
-Sempre em constante evolução (*like a true Pokémon trainer*) para dominar novos desafios na tecnologia e na engenharia!
+**Engenheiro Eletricista e Desenvolvedor Front-End** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas.
 
 ---
 
@@ -36,20 +34,16 @@ Sempre em constante evolução (*like a true Pokémon trainer*) para dominar nov
 
 ---
 
-### 🎮 Trainer Card / Lab Status
+### 🎯 Perfil & Foco
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/479.gif" alt="Rotom Tech" width="120" />
-</p>
-
-- ⚡ **Tipo Principal:** Elétrico / Aço *(focado em circuitos, automação e lógica)*.
-- 🎯 **Missão Atual:** Aprimorar as competências em React e arquitetura de sistemas web.
-- 🎧 **Trilha Sonora de Fundo:** Rock, K-pop, Metalcore e boa energia para resolver bugs.
+- ⚡ **Área de Atuação:** Automação predial, segurança contra incêndio (SDAI) e engenharia de manutenção.
+- 🚀 **Desenvolvimento:** Foco atual em React, Vite e arquitetura de aplicações web modernas.
+- 🎧 **Estilo:** Focado em resolução de problemas, lógica de sistemas e boa música para acompanhar os códigos.
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-guilhermearaujo&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eng-guilhermearaujo&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
