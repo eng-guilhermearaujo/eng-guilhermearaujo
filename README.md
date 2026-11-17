@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.pinimg.com/originals/34/84/5f/34845fa108269785055b85d9bf768991.gif" alt="Pixel Art Wallpaper" width="100%" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-city.gif" alt="Pixel Art Cyberpunk City" style="border-radius: 12px; width: 100%; max-height: 400px; object-fit: cover;" />
 </p>
 
 ### 💻 Stack & Tecnologias
