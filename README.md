@@ -33,15 +33,29 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/xyani/porygon-z.gif" alt="Porygon-Z Tech" width="200" />
-</p>
 
 ### 🎯 Perfil & Foco
+
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/xyani/porygon-z.gif" alt="Porygon-Z Tech" width="180" />
+</p>
 
 - ⚡ **Área de Atuação:** Automação predial, segurança contra incêndio (SDAI) e engenharia de manutenção.
 - 🚀 **Desenvolvimento:** Foco atual em React, Vite e arquitetura de aplicações web modernas.
 - 🎧 **Estilo:** Focado em resolução de problemas, lógica de sistemas e boa música para acompanhar os códigos.
+
+---
+
+###  📫 Contactos
+
+<p>
+  <a href="https://www.linkedin.com/in/eng-guilherme-araujo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:guilherme.bign@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 
 ---
 
