@@ -5,9 +5,10 @@
 **Engenheiro Eletricista e Desenvolvedor Front-End** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas.
 
 ---
-**<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/49428c105521579.5f7815874ae37.gif" alt="Pixel Art Cyberpunk City" style="border-radius: 12px; width: 100%; max-height: 400px; object-fit: cover;" />
-</p>**
+<p align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/030/306/166/original/pixel-art-bg-2.gif?1600229561" alt="Pixel Art Hacker Lab" style="border-radius: 12px; width: 100%; max-height: 400px; object-fit: cover;" />
+</p>
+
 
 ### 💻 Stack & Tecnologias
 
