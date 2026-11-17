@@ -33,6 +33,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/xyani/porygon-z.gif" alt="Porygon-Z Tech" width="200" />
+</p>
 
 ### 🎯 Perfil & Foco
 
