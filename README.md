@@ -39,7 +39,7 @@ Sempre em constante evolução (*like a true Pokémon trainer*) para dominar nov
 ### 🎮 Trainer Card / Lab Status
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="Banner do Perfil" style="border-radius: 12px; width: 100%; max-height: 350px; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/479.gif" alt="Rotom Tech" width="120" />
 </p>
 
 - ⚡ **Tipo Principal:** Elétrico / Aço *(focado em circuitos, automação e lógica)*.
