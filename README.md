@@ -4,10 +4,10 @@
 
 **Engenheiro Eletricista e Desenvolvedor Front-End** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas.
 
----
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk-city.gif" alt="Pixel Art Cyberpunk City" style="border-radius: 12px; width: 100%; max-height: 400px; object-fit: cover;" />
+  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" style="border-radius: 12px; width: 100%; max-height: 350px; object-fit: cover;" />
 </p>
+---
 
 ### 💻 Stack & Tecnologias
 
