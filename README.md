@@ -37,7 +37,7 @@
 ### 🎯 Perfil & Foco
 
 <p align="center">
-  <img src="https://gemini.google.com/app/fe85b382f9d9202d" alt="Porygon-Z Tech" width="180" />
+  <img src="https://i.pinimg.com/originals/9c/a6/98/9ca698c2e10fe61210fe9947c5e4be66.gif" alt="Porygon Cyber GIF" width="300" />
 </p>
 
 - ⚡ **Área de Atuação:** Automação predial, segurança contra incêndio (SDAI) e engenharia de manutenção.
