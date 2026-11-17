@@ -2,7 +2,7 @@
 
 > *"Even the most intricate systems start with a single line of logic."* ⚡
 
-**Técnico de Manutenção e Desenvolvedor Front-End** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas. 
+**Engenheiro Eletricista e Desenvolvedor Front-End** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas. 
 
 Sempre em constante evolução (*like a true Pokémon trainer*) para dominar novos desafios na tecnologia e na engenharia!
 
