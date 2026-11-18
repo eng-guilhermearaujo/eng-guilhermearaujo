@@ -2,7 +2,7 @@
 
 > *"Even the most intricate systems start with a single line of logic."* ⚡
 
-**Engenheiro Eletricista e Desenvolvedor Front-End** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas.
+**Engenheiro Eletricista e Desenvolvedor Front-End (Em Andamento)** | Especialista em automação predial, sistemas de detecção e alarme de incêndio (SDAI), e criação de aplicações web modernas.
 
 ---
 <p align="center">
